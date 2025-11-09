@@ -1,0 +1,7 @@
+openai
+wikipedia
+duckduckgo_search
+arxiv
+requests
+python-dotenv
+sreamlit
